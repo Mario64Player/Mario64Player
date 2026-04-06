@@ -3,7 +3,7 @@ Hello!!!
 I am Mario64Player(rock)
 I like coding things (Mostly Unity C#)
 
-PFP by [ichisansfw](https://www.instagram.com/ichisansfw/){: .btn}
+PFP by [ichisansfw](https://www.instagram.com/ichisansfw/)
 
 github stats rn:
 
