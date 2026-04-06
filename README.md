@@ -1,7 +1,7 @@
 Hello!!!
 
 I am Mario64Player(rock)
-I like coding things (Mostly Unity C#)
+I like coding things (or something?)
 
 PFP by [ichisansfw](https://www.instagram.com/ichisansfw/)
 
