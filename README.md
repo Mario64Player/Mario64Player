@@ -3,7 +3,7 @@ Hello!!!
 # boring introduction
 I am Mario64Player(rock)
 
-# some things
+# some things about my profile
 I like coding things (or something?)
 
 I also like to make cheats (suprising isn't it?)
