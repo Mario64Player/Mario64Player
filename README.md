@@ -2,6 +2,7 @@ Hello!!!
 
 I am Mario64Player(rock)
 I like coding things (or something?)
+I also like to make cheats (suprising isn't it?)
 
 PFP by [ichisansfw](https://www.instagram.com/ichisansfw/)
 
