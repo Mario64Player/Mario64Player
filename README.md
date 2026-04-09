@@ -3,10 +3,11 @@ Hello!!!
 # boring introduction
 I am Mario64Player(rock)
 
-# some things about my profile
 I like coding things (or something?)
 
 I also like to make cheats (suprising isn't it?)
+
+# some things about my profile
 
 PFP by [ichisansfw](https://www.instagram.com/ichisansfw/)
 
