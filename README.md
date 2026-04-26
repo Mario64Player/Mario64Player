@@ -9,7 +9,7 @@ I also like to make cheats (suprising isn't it?)
 
 # some things about my profile
 
-PFP by [ichisansfw](https://www.instagram.com/ichisansfw/)
+some images in future repositories by [ichisansfw](https://www.instagram.com/ichisansfw/)
 
 github stats rn:
 
